@@ -16,7 +16,7 @@ task2：UDP Client-Server Project
 1. 克隆或下载项目到本地：
 
    git clone https://github.com/Holoapple/task2-UDP-Client-Server-Project
-   cd udp-client-server
+   cd task2-UDP-Client-Server-Project
 
 2. 安装依赖库：
 
